@@ -10,5 +10,9 @@ out
 .vscode/
 .vscode-test/
 
+## .NET ##
+**/bin/
+**/obj/
+
 ## Mac ##
 .DS_Store
