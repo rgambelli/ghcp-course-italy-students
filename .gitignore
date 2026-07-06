@@ -1,0 +1,14 @@
+## Java ##
+.idea
+.gradle
+build
+out
+**/target/
+**/.settings/
+
+## Visual Studio Code ##
+.vscode/
+.vscode-test/
+
+## Mac ##
+.DS_Store
