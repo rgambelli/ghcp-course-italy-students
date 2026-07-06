@@ -1,6 +1,6 @@
 # GHCP Training Students
 
-This repository contains the materials for the students of the hands-on GHCP training.
+This repository contains the materials for the students of the hands-on GHCP training. NICOLA
 
 ## Before You Start
 
