@@ -88,6 +88,6 @@ Before starting the workshop, participants should have:
 
 ## Notes
 
-This repository is intended for training purposes. Its structure is designed to support workshop delivery and hands-on practice rather than to represent a single production application.
+This repository is intended for training purposes. Its structure is designed to support workshop delivery and hands-on practice rather than to represent a single production application. prova
     
 
