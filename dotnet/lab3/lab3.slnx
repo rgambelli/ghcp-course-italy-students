@@ -1,0 +1,8 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/Cegeka.Inbox/Cegeka.Inbox.csproj" />
+  </Folder>
+  <Folder Name="/test/">
+    <Project Path="test/Cegeka.Inbox.Tests/Cegeka.Inbox.Tests.csproj" />
+  </Folder>
+</Solution>

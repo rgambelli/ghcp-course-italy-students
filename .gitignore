@@ -6,6 +6,9 @@ out
 **/target/
 **/.settings/
 
+## Visual Studio ##
+.vs/
+
 ## Visual Studio Code ##
 .vscode/
 .vscode-test/
