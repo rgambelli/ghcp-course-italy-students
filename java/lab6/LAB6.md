@@ -2,7 +2,7 @@
 
 - Install the GitHub MCP server 
   - VSCode: from the marketplace
-    - Command palette > `MCP: Browse MCP Servers`
+    - Command palette (ctrl + shift + p) > `MCP: Browse MCP Servers`
     - Search for `GitHub` ("Connect AI assistants to GitHub - manage repos, issues...")
     - Click Install
   - IntelliJ: from the built-in MCP registry search
